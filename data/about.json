@@ -1,0 +1,25 @@
+{
+  "bio": [
+    "I am a passionate <strong>Software Engineer</strong> with a keen interest in Artificial Intelligence, modern web development, and creating performant, user-centric applications.",
+    "With experience across the stack, I enjoy architecting robust systems that solve real-world problems. My approach combines technical expertise with a strong focus on clean code, design patterns, and agile methodologies.",
+    "When I'm not coding, you can find me exploring the latest advancements in AI, contributing to open-source projects, or writing technical articles to share my knowledge with the community."
+  ],
+  "philosophies": [
+    {
+      "title": "Continuous Learning",
+      "description": "The tech landscape evolves rapidly; I embrace lifelong learning to stay at the cutting edge."
+    },
+    {
+      "title": "User-Centric Design",
+      "description": "Technology should serve people. I prioritize intuitive interfaces and accessible experiences."
+    },
+    {
+      "title": "Clean Code",
+      "description": "Readable, maintainable code is not optional. I follow SOLID principles and best practices."
+    },
+    {
+      "title": "Open Collaboration",
+      "description": "Great software is built together. I value open communication, code reviews, and knowledge sharing."
+    }
+  ]
+}

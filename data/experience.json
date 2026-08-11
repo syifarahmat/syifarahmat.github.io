@@ -1,0 +1,43 @@
+{
+  "experiences": [
+    {
+      "id": 1,
+      "role": "Senior AI Engineer",
+      "company": "TechNova Solutions",
+      "period": "2024 - Present",
+      "description": "Leading the development of large-scale LLM integrations. Architected a highly scalable RAG system reducing latency by 40%.",
+      "tech": [
+        "Python",
+        "PyTorch",
+        "Vue.js",
+        "AWS"
+      ]
+    },
+    {
+      "id": 2,
+      "role": "Full Stack Developer",
+      "company": "Quantum Web Agency",
+      "period": "2021 - 2024",
+      "description": "Built and maintained multiple high-traffic SPA applications. Implemented complex state management and responsive AI-driven UI components.",
+      "tech": [
+        "Vue 3",
+        "Node.js",
+        "TailwindCSS",
+        "PostgreSQL"
+      ]
+    },
+    {
+      "id": 3,
+      "role": "Frontend Developer Intern",
+      "company": "Creative Syntax",
+      "period": "2020 - 2021",
+      "description": "Assisted in migrating legacy jQuery applications to Vue.js. Created reusable UI component libraries for internal tools.",
+      "tech": [
+        "JavaScript",
+        "Vue 2",
+        "CSS",
+        "Git"
+      ]
+    }
+  ]
+}

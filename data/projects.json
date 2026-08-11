@@ -1,0 +1,40 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "Neural Vision AI",
+      "description": "A cutting-edge computer vision dashboard that processes real-time video streams for object detection. Built with WebRTC, Vue 3, and WebGL for rendering bounding boxes.",
+      "image": "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "tags": ["Vue 3", "TensorFlow.js", "Tailwind", "WebRTC"],
+      "demoLink": "#",
+      "githubLink": "#"
+    },
+    {
+      "id": 2,
+      "title": "Crypto Pulse",
+      "description": "Real-time cryptocurrency tracking SPA. Features glassmorphism UI, WebSocket integrations for live ticker data, and interactive TradingView charts.",
+      "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "tags": ["Vue 3", "Pinia", "Chart.js", "WebSocket"],
+      "demoLink": "#",
+      "githubLink": "#"
+    },
+    {
+      "id": 3,
+      "title": "SynthWave Editor",
+      "description": "An entirely browser-based code editor styled with retro-futuristic aesthetics. Features syntax highlighting, local file system access API, and vim bindings.",
+      "image": "https://images.unsplash.com/photo-1542831371-29b0f74f9713?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "tags": ["JavaScript", "Monaco", "CSS Variables"],
+      "demoLink": "#",
+      "githubLink": "#"
+    },
+    {
+      "id": 4,
+      "title": "AutoML Pipeline UI",
+      "description": "Frontend interface for an automated machine learning platform. Allows users to drag-and-drop datasets and configure training hyperparameters visually.",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "tags": ["Vue 3", "D3.js", "Vite"],
+      "demoLink": "#",
+      "githubLink": "#"
+    }
+  ]
+}

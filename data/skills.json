@@ -1,0 +1,33 @@
+{
+  "skillCategories": [
+    {
+      "name": "Frontend",
+      "skills": [
+        { "name": "Vue.js", "level": 90 },
+        { "name": "JavaScript/ES6+", "level": 95 },
+        { "name": "Tailwind CSS", "level": 85 },
+        { "name": "HTML5/CSS3", "level": 90 },
+        { "name": "TypeScript", "level": 75 }
+      ]
+    },
+    {
+      "name": "Backend & Tools",
+      "skills": [
+        { "name": "Node.js", "level": 80 },
+        { "name": "Python", "level": 70 },
+        { "name": "Git/GitHub", "level": 85 },
+        { "name": "Vite/Webpack", "level": 80 },
+        { "name": "REST APIs", "level": 90 }
+      ]
+    },
+    {
+      "name": "AI & Data",
+      "skills": [
+        { "name": "TensorFlow.js", "level": 60 },
+        { "name": "Prompt Engineering", "level": 85 },
+        { "name": "Data Visualization", "level": 75 },
+        { "name": "Vector DBs", "level": 65 }
+      ]
+    }
+  ]
+}

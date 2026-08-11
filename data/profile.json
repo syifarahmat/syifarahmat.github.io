@@ -1,0 +1,30 @@
+{
+  "name": "Rahmat Sifa'i",
+  "avatar": "/images/profile.png",
+  "logoText": "syifarahmat.id",
+  "greeting": "Hello, World! I'M",
+  "subtitles": [
+    "Software Engineer & AI Enthusiast",
+    "Full Stack Developer",
+    "Open Source Contributor",
+    "Building exceptional digital experiences."
+  ],
+  "tagline": "System.out.println(`Powered By ~ Karya Waktu Luang`);",
+  "socialLinks": [
+    {
+      "label": "GitHub",
+      "url": "https://github.com/syifarahmat",
+      "icon": "simple-icons:github"
+    },
+    {
+      "label": "LinkedIn",
+      "url": "https://linkedin.com/in/syifarahmat",
+      "icon": "simple-icons:linkedin"
+    },
+    {
+      "label": "Instagram",
+      "url": "https://instagram.com/syifarahmat",
+      "icon": "simple-icons:instagram"
+    }
+  ]
+}
