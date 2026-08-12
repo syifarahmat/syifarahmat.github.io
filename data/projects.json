@@ -2,39 +2,73 @@
   "projects": [
     {
       "id": 1,
-      "title": "Neural Vision AI",
-      "description": "A cutting-edge computer vision dashboard that processes real-time video streams for object detection. Built with WebRTC, Vue 3, and WebGL for rendering bounding boxes.",
-      "image": "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
-      "tags": ["Vue 3", "TensorFlow.js", "Tailwind", "WebRTC"],
-      "demoLink": "#",
-      "githubLink": "#"
+      "title": "Acuity Finance",
+      "description": "Comprehensive personal finance application designed to help you track expenses, manage savings, and gain crystal-clear insights into your financial health. Empowering you to make smarter decisions effortlessly.",
+      "image": "https://play-lh.googleusercontent.com/8Q2YnFnNc63R07IXCEQW9DMFOE5vDSs6g-AswnuP4M4JjsSjcxPRJ7R2rLG698Lcd_rbDcIBux8rG005QkLiomg=w2560-h1440-rw",
+      "tags": [
+        "Flutter",
+        "Isar",
+        "Riverpod",
+        "Google",
+        "Ai Receipt",
+        "Google Drive"
+      ],
+      "links": [
+        {
+          "text": "Install",
+          "text:id": "Pasang",
+          "url": "https://play.google.com/store/apps/details?id=io.github.acuityfinance"
+        },
+        {
+          "text": "Store",
+          "text:id": "Toko",
+          "url": "https://wa.me/p/28024311000542455/6282266331136"
+        }
+      ]
     },
     {
       "id": 2,
-      "title": "Crypto Pulse",
-      "description": "Real-time cryptocurrency tracking SPA. Features glassmorphism UI, WebSocket integrations for live ticker data, and interactive TradingView charts.",
-      "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
-      "tags": ["Vue 3", "Pinia", "Chart.js", "WebSocket"],
-      "demoLink": "#",
-      "githubLink": "#"
+      "title": "Mobile CRM",
+      "description": "Mobile & Web CRM was the first project I worked on at PT. Nusa Unggul Sarana Adicipta. The project consisted of two platforms: Mobile CRM and Web CRM. Mobile CRM was developed using native Java for Android, with SQLite as the database. Meanwhile, Web CRM was developed using PHP CodeIgniter 3, with PostgreSQL as the database.",
+      "description:id": "Mobile & Web CRM merupakan project pertama saya saat bekerja di PT. Nusa Unggul Sarana Adicipta. Project ini terdiri dari dua platform, yaitu Mobile CRM dan Web CRM. Mobile CRM dikembangkan menggunakan Java Native Android dengan SQLite sebagai database. Sementara itu, Web CRM dikembangkan menggunakan PHP CodeIgniter 3 dengan PostgreSQL sebagai database.",
+      "image": "https://i.ibb.co.com/5gYvmgY0/photoshoot-produk-3-1.jpg",
+      "tags": [
+        "Java",
+        "Native",
+        "Code Igniter",
+        "PostgreSQL"
+      ],
+      "links": []
     },
     {
       "id": 3,
-      "title": "SynthWave Editor",
-      "description": "An entirely browser-based code editor styled with retro-futuristic aesthetics. Features syntax highlighting, local file system access API, and vim bindings.",
-      "image": "https://images.unsplash.com/photo-1542831371-29b0f74f9713?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
-      "tags": ["JavaScript", "Monaco", "CSS Variables"],
-      "demoLink": "#",
-      "githubLink": "#"
+      "title": "Tracking Armada",
+      "description": "Fleet Tracking is a module consisting of two platforms: Mobile and Web. Mobile Tracking was developed using Dart/Flutter, while Web Tracking is a module within the ERPro project. In general, this project is used to monitor fleet movements during the delivery process. The system uses two sources of coordinate data: GPS vendor coordinates and driver device coordinates.",
+      "description:id": "Tracking Armada merupakan sebuah modul yang terdiri dari dua platform, yaitu Mobile dan Web. Mobile Tracking dikembangkan menggunakan bahasa pemrograman Dart/Flutter, sedangkan Web Tracking merupakan salah satu modul dari project ERPro. Secara umum, project ini digunakan untuk memantau pergerakan armada selama proses pengiriman. Sistem ini menggunakan dua sumber data koordinat, yaitu data koordinat dari vendor GPS dan data koordinat dari perangkat driver.",
+      "image": "https://i.ibb.co.com/mr8K3Yfn/photoshoot-produk-2-1.jpg",
+      "tags": [
+        "Flutter",
+        "Maps",
+        "RabbitMQ",
+        "Android",
+        "Object Box",
+        "Offline Firs"
+      ],
+      "links": []
     },
     {
       "id": 4,
-      "title": "AutoML Pipeline UI",
-      "description": "Frontend interface for an automated machine learning platform. Allows users to drag-and-drop datasets and configure training hyperparameters visually.",
-      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
-      "tags": ["Vue 3", "D3.js", "Vite"],
-      "demoLink": "#",
-      "githubLink": "#"
+      "title": "Tracking Kiriman & Surat Jalan",
+      "description": "Shipment and Delivery Note Tracking is a module within Fleet Tracking designed for customers. This module allows customers to track the location and status of their shipments or delivery notes in real time until they reach their destination.",
+      "description:id": "Tracking Kiriman Surat Jalan merupakan modul bagian dari Tracking Armada yang ditujukan untuk pelanggan. Modul ini memungkinkan pelanggan untuk melacak lokasi dan status kiriman atau surat jalan secara real-time hingga mencapai tujuan.",
+      "image": "https://i.ibb.co.com/Tx2Nkh5N/photoshoot-produk-4-1.jpg",
+      "tags": [
+        "Maps",
+        "Route",
+        "Live Location",
+        "Progress"
+      ],
+      "links": []
     }
   ]
 }

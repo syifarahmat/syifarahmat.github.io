@@ -2,42 +2,52 @@
   "experiences": [
     {
       "id": 1,
-      "role": "Senior AI Engineer",
-      "company": "TechNova Solutions",
-      "period": "2024 - Present",
-      "description": "Leading the development of large-scale LLM integrations. Architected a highly scalable RAG system reducing latency by 40%.",
-      "description:id": "Memimpin pengembangan integrasi LLM skala besar. Merancang sistem RAG yang sangat skalabel dan mengurangi latency hingga 40%.",
+      "role": "Full Stack Developer",
+      "company": "Karya Waktu Luang ~ IT Sollution",
+      "period": "2024 ~ Present",
+      "period:id": "2024 ~ Sekarang",
+      "description": "We are a software house focused on developing technology and innovative solutions that provide meaningful benefits to society. We believe that technology is not only about business and profit, but also about creating solutions that can help, simplify, and improve people’s lives.",
+      "description:id": "Kami merupakan software house yang berfokus pada pengembangan teknologi dan inovasi untuk memberikan solusi yang bermanfaat bagi masyarakat luas. Kami percaya bahwa teknologi bukan hanya tentang bisnis dan keuntungan, tetapi juga dapat menjadi sarana untuk membantu, mempermudah, dan memberikan manfaat bagi banyak orang.",
       "tech": [
         "Python",
-        "PyTorch",
-        "Vue.js",
-        "AWS"
+        "Java",
+        "PostgreSQL",
+        "Micro Services",
+        "Rabbit MQ",
+        "Version Controll ~ Github"
       ]
     },
     {
       "id": 2,
-      "role": "Full Stack Developer",
-      "company": "Quantum Web Agency",
-      "period": "2021 - 2024",
-      "description": "Built and maintained multiple high-traffic SPA applications. Implemented complex state management and responsive AI-driven UI components.",
+      "role": "Senior Full Stack Developer",
+      "company": "Nusantara Group",
+      "period": "2016 ~ Present",
+      "period:id": "2016 ~ Sekarang",
+      "description": "Responsible for designing application concepts and workflows, database structures, UI, and both Front-End and Back-End systems; integrating REST APIs; developing and utilizing supporting utilities; managing Version Control; and providing mentoring and technical guidance to the team throughout the application development process.",
+      "description:id": "Bertanggung jawab dalam merancang konsep dan alur program, mendesain struktur database, merancang UI serta mengembangkan Front-End dan Back-End, melakukan integrasi dengan REST API, mengembangkan dan memanfaatkan berbagai utilitas pendukung, mengelola Version Control, serta memberikan mentoring dan technical guidance kepada tim dalam proses pengembangan aplikasi.",
       "tech": [
-        "Vue 3",
-        "Node.js",
-        "TailwindCSS",
-        "PostgreSQL"
+        "Python",
+        "Java",
+        "PostgreSQL",
+        "Micro Services",
+        "Rabbit MQ",
+        "Version Controll ~ Github"
       ]
     },
     {
       "id": 3,
-      "role": "Frontend Developer Intern",
-      "company": "Creative Syntax",
-      "period": "2020 - 2021",
-      "description": "Assisted in migrating legacy jQuery applications to Vue.js. Created reusable UI component libraries for internal tools.",
+      "role": "Full Stack Developer",
+      "company": "Martinez Software House",
+      "period": "02.2016 ~ 07.2016",
+      "description": "Responsible for project time planning and management, conducting consultations and coordination with clients, and monitoring project progress and execution to ensure that projects are completed according to the established plans, schedules, and targets.",
+      "description:id": "Bertanggung jawab dalam perencanaan dan pengelolaan waktu proyek ~ Time Planning, melakukan konsultasi dan koordinasi dengan klien, serta memantau progres dan pelaksanaan pekerjaan untuk memastikan proyek berjalan sesuai rencana dan target yang telah ditetapkan.",
       "tech": [
-        "JavaScript",
-        "Vue 2",
-        "CSS",
-        "Git"
+        "Python",
+        "Java",
+        "PostgreSQL",
+        "Micro Services",
+        "Rabbit MQ",
+        "Version Controll ~ Github"
       ]
     }
   ]
