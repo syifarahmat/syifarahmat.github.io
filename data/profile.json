@@ -5,10 +5,20 @@
   "greeting": "Hello World! I'M",
   "greeting:id": "Halo Dunia! Saya",
   "subtitles": [
-    "Software Engineer & AI Enthusiast",
-    "Full Stack Developer",
-    "Open Source Contributor",
-    "Building exceptional digital experiences."
+    "Senior Software Engineer ~ 10+ Years Experience",
+    "Full Stack & Microservices Architect",
+    "AI Agents & Automation Specialist ~ Hermes, Nine Router",
+    "Cross Platform Mobile Developer ~ Flutter & Native Android",
+    "Enterprise Solutions For Retail & Manufacturing",
+    "Architecting High Performance, Scalable Digital Ecosystems"
+  ],
+  "subtitles:id": [
+    "Senior Software Engineer ~ Pengalaman 10+ Tahun",
+    "Arsitek Full Stack & Mikroservis",
+    "Spesialis AI Agent & Otomatisasi ~ Hermes, Nine Router",
+    "Pengembang Mobile Lintas Platform ~ Flutter & Native Android",
+    "Solusi Sistem Enterprise Retail & Manufaktur",
+    "Merancang Ekosistem Digital Yang Skalabel Dan Berperforma Tinggi"
   ],
   "taglines": [
     { "lang": "Java", "code": "System.out.println(\"Powered By ~ Karya Waktu Luang\")" },

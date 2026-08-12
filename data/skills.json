@@ -4,10 +4,10 @@
       "name": "Frontend",
       "skills": [
         { "name": "Vue.js", "level": 90 },
-        { "name": "JavaScript/ES6+", "level": 95 },
+        { "name": "Java Script ~ ES6+", "level": 95 },
         { "name": "Tailwind CSS", "level": 85 },
-        { "name": "HTML5/CSS3", "level": 90 },
-        { "name": "TypeScript", "level": 75 }
+        { "name": "HTML5 ~ CSS3", "level": 90 },
+        { "name": "Type Script", "level": 75 }
       ]
     },
     {
@@ -15,15 +15,18 @@
       "skills": [
         { "name": "Node.js", "level": 80 },
         { "name": "Python", "level": 70 },
-        { "name": "Git/GitHub", "level": 85 },
-        { "name": "Vite/Webpack", "level": 80 },
-        { "name": "REST APIs", "level": 90 }
+        { "name": "Git ~ GitHub", "level": 85 },
+        { "name": "Vite ~ Webpack", "level": 80 },
+        { "name": "REST APIs", "level": 90 },
+        { "name": "Micro Services", "level": 90 },
+        { "name": "Nginx Proxy & Load Balancing", "level": 90 }
       ]
     },
     {
       "name": "AI & Data",
       "skills": [
-        { "name": "TensorFlow.js", "level": 60 },
+        { "name": "Hermes", "level": 60 },
+        { "name": "AI Gateway", "level": 60 },
         { "name": "Prompt Engineering", "level": 85 },
         { "name": "Data Visualization", "level": 75 },
         { "name": "Vector DBs", "level": 65 }

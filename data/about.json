@@ -1,38 +1,38 @@
 {
   "bio": [
-    "I am a passionate <strong>Software Engineer</strong> with a keen interest in Artificial Intelligence, modern web development, and creating performant, user-centric applications.",
-    "With experience across the stack, I enjoy architecting robust systems that solve real-world problems. My approach combines technical expertise with a strong focus on clean code, design patterns, and agile methodologies.",
-    "When I'm not coding, you can find me exploring the latest advancements in AI, contributing to open-source projects, or writing technical articles to share my knowledge with the community."
+    "I am a seasoned <strong>Software Engineer</strong> with 10 years of experience architecting high~impact distributed systems, modern web applications, and mobile solutions across the retail and manufacturing sectors, with deep expertise in full~stack engineering, microservices, and AI integration.",
+    "My polyglot backend toolkit spans Java, PHP, .NET, Python, and Go~utilizing Spring Boot, Laravel, Django, REST frameworks, and microframeworks. On the frontend and mobile layers, I build highly performant interfaces using React, Vue, Angular, Flutter (powered by Riverpod state management and Isar database), and Native Android, styled with Tailwind CSS and Bootstrap. Across data and infrastructure, I deploy PostgreSQL, MySQL, Oracle, and MongoDB, managed with Nginx, proxies, and route balancing.",
+    "Beyond traditional software development, I specialize in building intelligent, automated workflows using AI agents, Hermes, and 9Router, while upholding production excellence through strict GitHub code reviews and end~to~end performance optimization."
   ],
   "bio:id": [
-    "Saya adalah seorang <strong>Software Engineer</strong> yang bersemangat dengan ketertarikan kuat pada Kecerdasan Buatan, pengembangan web modern, serta membangun aplikasi yang performa dan berpusat pada pengguna.",
-    "Dengan pengalaman lintas stack, saya menikmati merancang sistem yang tangguh untuk menyelesaikan masalah nyata. Pendekatan saya menggabungkan keahlian teknis dengan fokus yang kuat pada kode bersih, pola desain, dan metodologi agile.",
-    "Ketika tidak sedang menulis kode, saya menelusuri perkembangan terbaru di bidang AI, berkontribusi pada proyek sumber terbuka, atau menulis artikel teknis untuk berbagi pengetahuan dengan komunitas."
+    "Saya seorang <strong>Software Engineer</strong> berpengalaman 10 tahun dalam merancang sistem terdistribusi, aplikasi web, dan solusi mobile berskala besar untuk industri retail serta manufaktur. Keahlian utama saya mencakup pengembangan full~stack, arsitektur mikroservis, hingga integrasi kecerdasan buatan (AI).",
+    "Di sisi backend, saya terbiasa menggunakan berbagai teknologi seperti Java, PHP, .NET, Python, dan Go~dengan framework Spring Boot, Laravel, Django, REST API, hingga microframework. Untuk frontend dan mobile, saya menguasai React, Vue, Angular, Flutter (dengan Riverpod dan Isar DB), serta Android Native, dipadukan dengan Tailwind CSS dan Bootstrap. Sedangkan pada pemrosesan data dan infrastruktur, saya mengelola PostgreSQL, MySQL, Oracle, dan MongoDB, yang dioptimalkan menggunakan Nginx, proxy, serta route/load balancer.",
+    "Selain pengembangan aplikasi konvensional, saya juga berfokus membangun alur kerja otomatis yang cerdas berbasis AI agent, Hermes, dan 9Router, sembari menjaga kualitas sistem tingkat produksi lewat proses code review di GitHub dan optimasi performa secara menyeluruh."
   ],
   "philosophies": [
     {
-      "title": "Continuous Learning",
-      "title:id": "Pembelajaran Berkelanjutan",
-      "description": "The tech landscape evolves rapidly; I embrace lifelong learning to stay at the cutting edge.",
-      "description:id": "Landscape teknologi berkembang pesat; saya mengadopsi pembelajaran seumur hidup untuk tetap di garis depan."
+      "title": "Real World Impact",
+      "title:id": "Dampak Nyata",
+      "description": "A decade in retail and manufacturing taught me that great software must directly solve operational bottlenecks and drive measurable business efficiency.",
+      "description:id": "Pengalaman satu dekade di industri retail dan manufaktur membuktikan bahwa perangkat lunak yang baik harus mampu menyelesaikan kendala operasional secara langsung dan memberikan efisiensi bisnis yang terukur."
     },
     {
-      "title": "User Centric Design",
-      "title:id": "Desain Berfokus pada Pengguna",
-      "description": "Technology should serve people. I prioritize intuitive interfaces and accessible experiences.",
-      "description:id": "Teknologi harus melayani manusia. Saya mengutamakan antarmuka yang intuitif dan pengalaman yang aksesibel."
+      "title": "Full Stack & Cross Platform Excellence",
+      "title:id": "Keunggulan Full Stack & Lintas Platform",
+      "description": "Combining seamless web and mobile interfaces~powered by robust state management and fast local databases~with resilient microservices guarantees exceptional user experiences across all devices.",
+      "description:id": "Perpaduan antarmuka web dan mobile yang responsif~didukung state management yang rapi dan database lokal yang cepat~dengan mikroservis yang andal menghasilkan pengalaman pengguna yang optimal di berbagai perangkat."
     },
     {
-      "title": "Clean Code",
-      "title:id": "Kode Bersih",
-      "description": "Readable, maintainable code is not optional. I follow SOLID principles and best practices.",
-      "description:id": "Kode yang mudah dibaca dan dipelihara bukanlah pilihan. Saya mengikuti prinsip SOLID dan praktik terbaik."
+      "title": "Clean Code & Collaboration",
+      "title:id": "Kode Bersih & Kolaborasi",
+      "description": "Maintainable architecture built on clean code, solid design patterns, and rigorous GitHub code reviews is essential for long~term system health.",
+      "description:id": "Arsitektur yang mudah dirawat, penerapan kode bersih (clean code), pola desain yang tepat, serta proses code review yang ketat di GitHub adalah kunci utama menjaga keberlanjutan sistem jangka panjang."
     },
     {
-      "title": "Open Collaboration",
-      "title:id": "Kolaborasi Terbuka",
-      "description": "Great software is built together. I value open communication, code reviews, and knowledge sharing.",
-      "description:id": "Perangkat lunak hebat dibangun bersama. Saya menghargai komunikasi terbuka, tinjauan kode, dan berbagi pengetahuan."
+      "title": "AI & Automation First",
+      "title:id": "Utamakan AI & Otomatisasi",
+      "description": "Leveraging AI agents, Hermes, 9Router, and automated pipelines elevates standard applications into proactive, self~optimizing ecosystems.",
+      "description:id": "Pemanfaatan AI agent, Hermes, 9Router, serta alur otomatisasi mampu mengubah aplikasi biasa menjadi ekosistem cerdas yang proaktif dan dapat mengoptimalkan dirinya sendiri."
     }
   ]
 }
