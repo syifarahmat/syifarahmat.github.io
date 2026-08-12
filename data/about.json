@@ -4,22 +4,35 @@
     "With experience across the stack, I enjoy architecting robust systems that solve real-world problems. My approach combines technical expertise with a strong focus on clean code, design patterns, and agile methodologies.",
     "When I'm not coding, you can find me exploring the latest advancements in AI, contributing to open-source projects, or writing technical articles to share my knowledge with the community."
   ],
+  "bio:id": [
+    "Saya adalah seorang <strong>Software Engineer</strong> yang bersemangat dengan ketertarikan kuat pada Kecerdasan Buatan, pengembangan web modern, serta membangun aplikasi yang performa dan berpusat pada pengguna.",
+    "Dengan pengalaman lintas stack, saya menikmati merancang sistem yang tangguh untuk menyelesaikan masalah nyata. Pendekatan saya menggabungkan keahlian teknis dengan fokus yang kuat pada kode bersih, pola desain, dan metodologi agile.",
+    "Ketika tidak sedang menulis kode, saya menelusuri perkembangan terbaru di bidang AI, berkontribusi pada proyek sumber terbuka, atau menulis artikel teknis untuk berbagi pengetahuan dengan komunitas."
+  ],
   "philosophies": [
     {
       "title": "Continuous Learning",
-      "description": "The tech landscape evolves rapidly; I embrace lifelong learning to stay at the cutting edge."
+      "title:id": "Pembelajaran Berkelanjutan",
+      "description": "The tech landscape evolves rapidly; I embrace lifelong learning to stay at the cutting edge.",
+      "description:id": "Landscape teknologi berkembang pesat; saya mengadopsi pembelajaran seumur hidup untuk tetap di garis depan."
     },
     {
-      "title": "User-Centric Design",
-      "description": "Technology should serve people. I prioritize intuitive interfaces and accessible experiences."
+      "title": "User Centric Design",
+      "title:id": "Desain Berfokus pada Pengguna",
+      "description": "Technology should serve people. I prioritize intuitive interfaces and accessible experiences.",
+      "description:id": "Teknologi harus melayani manusia. Saya mengutamakan antarmuka yang intuitif dan pengalaman yang aksesibel."
     },
     {
       "title": "Clean Code",
-      "description": "Readable, maintainable code is not optional. I follow SOLID principles and best practices."
+      "title:id": "Kode Bersih",
+      "description": "Readable, maintainable code is not optional. I follow SOLID principles and best practices.",
+      "description:id": "Kode yang mudah dibaca dan dipelihara bukanlah pilihan. Saya mengikuti prinsip SOLID dan praktik terbaik."
     },
     {
       "title": "Open Collaboration",
-      "description": "Great software is built together. I value open communication, code reviews, and knowledge sharing."
+      "title:id": "Kolaborasi Terbuka",
+      "description": "Great software is built together. I value open communication, code reviews, and knowledge sharing.",
+      "description:id": "Perangkat lunak hebat dibangun bersama. Saya menghargai komunikasi terbuka, tinjauan kode, dan berbagi pengetahuan."
     }
   ]
 }

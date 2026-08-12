@@ -2,7 +2,8 @@
   "name": "Rahmat Sifa'i",
   "avatar": "/images/profile.png",
   "logoText": "syifarahmat.id",
-  "greeting": "Hello, World! I'M",
+  "greeting": "Hello World! I'M",
+  "greeting:id": "Halo Dunia! Saya",
   "subtitles": [
     "Software Engineer & AI Enthusiast",
     "Full Stack Developer",
@@ -25,6 +26,16 @@
       "label": "Instagram",
       "url": "https://instagram.com/syifarahmat",
       "icon": "simple-icons:instagram"
+    },
+    {
+      "label": "WhatsApp",
+      "url": "https://wa.me/6282266331136",
+      "icon": "simple-icons:whatsapp"
+    },
+    {
+      "label": "Email",
+      "url": "mailto:syifarahmat.id@gmail.com",
+      "icon": "simple-icons:gmail"
     }
   ]
 }

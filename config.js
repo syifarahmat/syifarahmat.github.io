@@ -1,9 +1,9 @@
 /**
  * Portfolio Configuration
- * 
+ *
  * This file is NOT bundled during build, so it can be edited directly on the server
  * without rebuilding the application.
- * 
+ *
  * Usage:
  * - Local data   : DATA_BASE_URL = ''  (empty = use /data/*.json files)
  * - CDN / remote : DATA_BASE_URL = 'https://cdn.example.com'

@@ -1,13 +1,7 @@
-# Apache - SPA Fallback
-# Semua request yang bukan file/folder nyata diarahkan ke index.html
 <IfModule mod_rewrite.c>
     RewriteEngine On
     RewriteBase /
-
-    # Jangan redirect file/folder yang memang ada (js, css, gambar, dll)
     RewriteCond %{REQUEST_FILENAME} !-f
     RewriteCond %{REQUEST_FILENAME} !-d
-
-    # Semua route lain → index.html (Vue Router yang handle)
     RewriteRule ^ /index.html [L]
 </IfModule>

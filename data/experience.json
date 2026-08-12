@@ -6,6 +6,7 @@
       "company": "TechNova Solutions",
       "period": "2024 - Present",
       "description": "Leading the development of large-scale LLM integrations. Architected a highly scalable RAG system reducing latency by 40%.",
+      "description:id": "Memimpin pengembangan integrasi LLM skala besar. Merancang sistem RAG yang sangat skalabel dan mengurangi latency hingga 40%.",
       "tech": [
         "Python",
         "PyTorch",
