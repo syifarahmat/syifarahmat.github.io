@@ -1,10 +1,10 @@
 {
   "projects": [
     {
-      "id": 1,
+      "id": 2608151014,
       "title": "Acuity Finance",
       "description": "Comprehensive personal finance application designed to help you track expenses, manage savings, and gain crystal-clear insights into your financial health. Empowering you to make smarter decisions effortlessly.",
-      "image": "https://play-lh.googleusercontent.com/8Q2YnFnNc63R07IXCEQW9DMFOE5vDSs6g-AswnuP4M4JjsSjcxPRJ7R2rLG698Lcd_rbDcIBux8rG005QkLiomg=w2560-h1440-rw",
+      "image": "https://i.ibb.co.com/j9JLX7CJ/photoshoot-produk-1.jpg",
       "tags": [
         "Flutter",
         "Isar",
@@ -27,7 +27,33 @@
       ]
     },
     {
-      "id": 2,
+      "id": 2608151015,
+      "title": "Qaidah Nuraniah",
+      "description": "Qaidah Nuraniah Progressive Web App is a flexible and free interactive alternative for learning the Qur'an. It features spelling/non-spelling audio modes, audio speed controls, customizable Arabic text size, dark/light modes, and bilingual support that can be directly installed on your phone.",
+      "description:id": "Qaidah Nuraniah Progressive Web App adalah media interaktif belajar Al~Qur'an alternatif yang fleksibel & gratis. Dilengkapi mode ejaan/tanpa ejaan, atur kecepatan audio, ukuran teks Arab yang dapat disesuaikan, mode gelap/terang, serta dukungan dwibahasa yang bisa langsung diinstal ke HP.",
+      "image": "https://i.ibb.co.com/x85cvXhn/photo-2026-08-15-10-08-00.jpg",
+      "tags": [
+        "Vue",
+        "Progressive Web App",
+        "Vite",
+        "Tailwind",
+        "Lucide"
+      ],
+      "links": [
+        {
+          "text": "Install",
+          "text:id": "Pasang",
+          "url": "https://qaidahnuraniah.github.io/"
+        },
+        {
+          "text": "Store",
+          "text:id": "Toko",
+          "url": "https://wa.me/p/28220009354302387/6282266331136"
+        }
+      ]
+    },
+    {
+      "id": 2608151016,
       "title": "Mobile CRM",
       "description": "Mobile & Web CRM was the first project I worked on at PT. Nusa Unggul Sarana Adicipta. The project consisted of two platforms: Mobile CRM and Web CRM. Mobile CRM was developed using native Java for Android, with SQLite as the database. Meanwhile, Web CRM was developed using PHP CodeIgniter 3, with PostgreSQL as the database.",
       "description:id": "Mobile & Web CRM merupakan project pertama saya saat bekerja di PT. Nusa Unggul Sarana Adicipta. Project ini terdiri dari dua platform, yaitu Mobile CRM dan Web CRM. Mobile CRM dikembangkan menggunakan Java Native Android dengan SQLite sebagai database. Sementara itu, Web CRM dikembangkan menggunakan PHP CodeIgniter 3 dengan PostgreSQL sebagai database.",
@@ -41,7 +67,7 @@
       "links": []
     },
     {
-      "id": 3,
+      "id": 2608151017,
       "title": "Tracking Armada",
       "description": "Fleet Tracking is a module consisting of two platforms: Mobile and Web. Mobile Tracking was developed using Dart/Flutter, while Web Tracking is a module within the ERPro project. In general, this project is used to monitor fleet movements during the delivery process. The system uses two sources of coordinate data: GPS vendor coordinates and driver device coordinates.",
       "description:id": "Tracking Armada merupakan sebuah modul yang terdiri dari dua platform, yaitu Mobile dan Web. Mobile Tracking dikembangkan menggunakan bahasa pemrograman Dart/Flutter, sedangkan Web Tracking merupakan salah satu modul dari project ERPro. Secara umum, project ini digunakan untuk memantau pergerakan armada selama proses pengiriman. Sistem ini menggunakan dua sumber data koordinat, yaitu data koordinat dari vendor GPS dan data koordinat dari perangkat driver.",
@@ -57,7 +83,7 @@
       "links": []
     },
     {
-      "id": 4,
+      "id": 2608151018,
       "title": "Tracking Kiriman & Surat Jalan",
       "description": "Shipment and Delivery Note Tracking is a module within Fleet Tracking designed for customers. This module allows customers to track the location and status of their shipments or delivery notes in real time until they reach their destination.",
       "description:id": "Tracking Kiriman Surat Jalan merupakan modul bagian dari Tracking Armada yang ditujukan untuk pelanggan. Modul ini memungkinkan pelanggan untuk melacak lokasi dan status kiriman atau surat jalan secara real-time hingga mencapai tujuan.",
