@@ -31,7 +31,12 @@
       "title": "Qaidah Nuraniah",
       "description": "Qaidah Nuraniah Progressive Web App is a flexible and free interactive alternative for learning the Qur'an. It features spelling/non-spelling audio modes, audio speed controls, customizable Arabic text size, dark/light modes, and bilingual support that can be directly installed on your phone.",
       "description:id": "Qaidah Nuraniah Progressive Web App adalah media interaktif belajar Al~Qur'an alternatif yang fleksibel & gratis. Dilengkapi mode ejaan/tanpa ejaan, atur kecepatan audio, ukuran teks Arab yang dapat disesuaikan, mode gelap/terang, serta dukungan dwibahasa yang bisa langsung diinstal ke HP.",
-      "image": "https://i.ibb.co.com/x85cvXhn/photo-2026-08-15-10-08-00.jpg",
+      "images": [
+        "https://i.ibb.co.com/cKfqzMtm/gabungan-1-1.jpg",
+        "https://i.ibb.co.com/TBrrTYpG/gabungan-1-4.jpg",
+        "https://i.ibb.co.com/BKNvjqv5/gabungan-2-4.jpg",
+        "https://i.ibb.co.com/CK0y0dSG/gabungan-3-2.jpg"
+      ],
       "tags": [
         "Vue",
         "Progressive Web App",
@@ -95,6 +100,42 @@
         "Progress"
       ],
       "links": []
+    },
+    {
+      "id": 2609182242,
+      "title": "Git Tentacle",
+      "description": "Git Tentacle is a modern Git GUI designed to untangle the complexity of code branching workflows. Inspired by the flexible and versatile nature of octopus tentacles, it transforms intricate commit histories into clean, interactive, and easily manageable branch structures in just a few clicks.",
+      "description:id": "Git Tentacle adalah GUI Git modern yang dirancang untuk mengurai kompleksitas alur kerja percabangan kode. Terinspirasi dari sifat tentakel gurita yang fleksibel dan serbaguna, aplikasi ini mengubah riwayat commit yang rumit menjadi struktur cabang yang rapi, interaktif, dan mudah dikelola hanya dalam beberapa klik.",
+      "images": [
+        "https://i.ibb.co.com/xtd4BjSp/Screenshot-20260918-222527.png",
+        "https://i.ibb.co.com/jZTSzrRJ/Screenshot-20260918-222614.png",
+        "https://i.ibb.co.com/Qjjfnksb/Screenshot-20260918-222734.png",
+        "https://i.ibb.co.com/1GhwSLL9/Screenshot-20260918-222852.png",
+        "https://i.ibb.co.com/kgw0MjPq/Screenshot-20260918-222903.png",
+        "https://i.ibb.co.com/d45mTwLH/Screenshot-20260918-222925.png",
+        "https://i.ibb.co.com/HDJ73JJz/Screenshot-20260918-222932.png",
+        "https://i.ibb.co.com/NnnMKxHp/Screenshot-20260918-222950.png",
+        "https://i.ibb.co.com/YB44TWPn/Screenshot-20260918-223056.png",
+        "https://i.ibb.co.com/8gn7ZKnf/Screenshot-20260918-223130.png",
+        "https://i.ibb.co.com/99kGZMMY/Screenshot-20260918-223154.png",
+        "https://i.ibb.co.com/BVR01BTC/Screenshot-20260918-223247.png",
+        "https://i.ibb.co.com/xt54ByzZ/Screenshot-20260918-223328.png",
+        "https://i.ibb.co.com/1JsjcBYf/Screenshot-20260918-223430.png"
+      ],
+      "tags": [
+        "Vue.JS",
+        "Nuxt",
+        "Ai Commit",
+        "COnflict Resolving",
+        "Github",
+        "Gitlab"
+      ],
+      "links": [
+        {
+          "text": "Download",
+          "url": "https://github.com/gittentacle/gittentacle.github.io/releases"
+        }
+      ]
     }
   ]
 }
